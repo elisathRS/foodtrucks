@@ -1,0 +1,45 @@
+.Truck {
+    padding-bottom: 50px;
+    flex: 1;
+    margin: 10px;
+    width: calc(33.33% - 20px);
+    background-color: #fff; 
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.name{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+    color: #333;
+    padding-top: 20px;
+}
+
+.cuisineType{
+  font-size: 18px;
+  color: black;
+  font-weight: bold;
+  padding-bottom: 15px;
+  
+}
+
+button{
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
